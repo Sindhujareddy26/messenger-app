@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/messenger-app.gitp/static/css/main.eb918993.chunk.css",
-    "main.js": "/messenger-app.gitp/static/js/main.1045ef66.chunk.js",
-    "main.js.map": "/messenger-app.gitp/static/js/main.1045ef66.chunk.js.map",
-    "runtime-main.js": "/messenger-app.gitp/static/js/runtime-main.0cf1e312.js",
-    "runtime-main.js.map": "/messenger-app.gitp/static/js/runtime-main.0cf1e312.js.map",
-    "static/js/2.48c7c3cf.chunk.js": "/messenger-app.gitp/static/js/2.48c7c3cf.chunk.js",
-    "static/js/2.48c7c3cf.chunk.js.map": "/messenger-app.gitp/static/js/2.48c7c3cf.chunk.js.map",
-    "index.html": "/messenger-app.gitp/index.html",
-    "precache-manifest.a248d4802350eb7dbdcebdc0a48e0c44.js": "/messenger-app.gitp/precache-manifest.a248d4802350eb7dbdcebdc0a48e0c44.js",
-    "service-worker.js": "/messenger-app.gitp/service-worker.js",
-    "static/css/main.eb918993.chunk.css.map": "/messenger-app.gitp/static/css/main.eb918993.chunk.css.map",
-    "static/js/2.48c7c3cf.chunk.js.LICENSE.txt": "/messenger-app.gitp/static/js/2.48c7c3cf.chunk.js.LICENSE.txt"
+    "main.css": "/messenger-app/static/css/main.eb918993.chunk.css",
+    "main.js": "/messenger-app/static/js/main.0b778b56.chunk.js",
+    "main.js.map": "/messenger-app/static/js/main.0b778b56.chunk.js.map",
+    "runtime-main.js": "/messenger-app/static/js/runtime-main.297f7124.js",
+    "runtime-main.js.map": "/messenger-app/static/js/runtime-main.297f7124.js.map",
+    "static/js/2.b0adc719.chunk.js": "/messenger-app/static/js/2.b0adc719.chunk.js",
+    "static/js/2.b0adc719.chunk.js.map": "/messenger-app/static/js/2.b0adc719.chunk.js.map",
+    "index.html": "/messenger-app/index.html",
+    "precache-manifest.173125453a56619b09aaaf75444beec1.js": "/messenger-app/precache-manifest.173125453a56619b09aaaf75444beec1.js",
+    "service-worker.js": "/messenger-app/service-worker.js",
+    "static/css/main.eb918993.chunk.css.map": "/messenger-app/static/css/main.eb918993.chunk.css.map",
+    "static/js/2.b0adc719.chunk.js.LICENSE.txt": "/messenger-app/static/js/2.b0adc719.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cf1e312.js",
-    "static/js/2.48c7c3cf.chunk.js",
+    "static/js/runtime-main.297f7124.js",
+    "static/js/2.b0adc719.chunk.js",
     "static/css/main.eb918993.chunk.css",
-    "static/js/main.1045ef66.chunk.js"
+    "static/js/main.0b778b56.chunk.js"
   ]
 }
